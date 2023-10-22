@@ -1,2 +1,2 @@
 # APK Kuramanime
- Repositori untuk APK terbaru dari https://kuramanime.net
+ Repositori untuk APK terbaru dari https://kuramanime.link
